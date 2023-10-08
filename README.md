@@ -20,8 +20,16 @@ Classification Report:
 |   macro avg   |   1.0000  | 1.0000 |  1.0000  |   522   |
 | weighted avg  |   1.0000  | 1.0000 |  1.0000  |   522   |
 
+classification best images
+
 ![Alt text](<classification best images.png>)
+
+Classification Accuracy and Loss Plot
+
 ![Alt text](<Classification Accuracy and Loss Plot.png>)
+
+Classification Confusion Matrix
+
 ![Alt text](<Classification Confusion Matrix.png>)
 
 
