@@ -31,7 +31,7 @@ For Detection: [WCEBleedGen_Screenshots/Detection_plots/Validation_plots]
 
 4. Screenshots/pictures of any 5 best images selected from testing datasets 1 and 2 separately showing its classification and detection (bounding box with confidence level).
 
-For classification: [WCEBleedGen_Screenshots/Classification_plots/Test_plots] 
+For classification: [WCEBleedGen_Screenshots/Classification_plots/Test_plots]. 
 For Detection: [WCEBleedGen_Screenshots/Detection_plots/Test_plots]
 
 5. Screenshots/ pictures of achieved interpretability plot of any 5 best images selected from testing datasets 1 and 2 separately.
