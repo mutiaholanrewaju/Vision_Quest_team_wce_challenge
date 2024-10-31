@@ -1,5 +1,8 @@
 # Vision_Quest_team_Wce_Challenge
-This the repository for the Auto-WCEBleedGen Challenge
+This the repository for the Auto-WCEBleedGen Challenge. It is a contribution to an open-source initiative that aimed at detecting bleeding instances in a wireless capsule endoscopy dataset to enhanced automated medical imaging solutions. This project leverages machine and deep learning techniques for automated bleeding detection, segmentation, classification and localization using predictive models like yolov8.
+![details](https://github.com/user-attachments/assets/c6e37e8f-aa6a-40ed-8f79-216c8373a0fd)
+
+
 
 Link to the folder with screenshots and models:
 https://drive.google.com/drive/folders/1g3zSuvOO-7fw3_PIjealPsPtlO6YzwYd?usp=drive_vlink
